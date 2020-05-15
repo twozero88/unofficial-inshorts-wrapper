@@ -1,5 +1,5 @@
-# unofficial-inshorts-API
-Unofficial Inshorts API.Just adds headers to the already existing API and returns a clearer result
+# unofficial-inshorts-wrapper
+Unofficial Inshorts Wrapper is built around the inshorts API.Just adds headers to the already existing API and returns a clearer result
 
 **You can skip The Story**
 ## The Story
