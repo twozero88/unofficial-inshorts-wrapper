@@ -1,4 +1,6 @@
 # unofficial-inshorts-wrapper
+[Deployed version](https://news-in-short.herokuapp.com)
+
 Unofficial Inshorts Wrapper is built around the inshorts API.Just adds headers to the already existing API and returns a clearer result
 
 **You can skip The Story**
